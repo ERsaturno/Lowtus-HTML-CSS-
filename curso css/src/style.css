@@ -1,0 +1,76 @@
+    .titulo-principal {
+        color: #a7b7ac;
+        padding-left: 12%;
+    }
+
+    #gatinho {
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    .principal {
+        background-color: #ffffff;
+        padding: 30px;
+    }
+
+    h2 { 
+        color:#a7b7ac;
+        padding: 30px;
+        border: 8px solid #a7b7ac;
+    }
+
+    .titulo-centralizado {
+        text-align: center;
+    }
+
+    p { 
+        padding: 5px;
+        text-align: center;
+    }
+
+    #localizacao {
+        color: #353a34;
+    }
+
+    #missao {
+        color: #353a34;
+        font-size: 20px;
+    }
+    
+    #profissionais {
+        color: #353a34;
+    }
+
+    em strong {
+        color: #a7b7ac;
+    }
+
+    .itens {
+        font-style: italic;
+    }
+    
+    .beneficios {
+        background-color: #a7b7ac;
+        padding: 20px;
+    }
+
+    h3 {
+        color: #353a34;
+    }
+
+    ul {
+        color: #353a34;
+        display: inline-block;
+        vertical-align: top;
+        width: 13%;
+        margin-right: 10%;
+    }
+
+    #gatinho2 {
+        width: 50%;
+    }
+
+    
+
+   
+    
